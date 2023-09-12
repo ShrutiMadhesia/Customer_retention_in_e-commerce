@@ -13,10 +13,22 @@ DATA CLEANING:
 Also the data type of pincode column was integer type but pincode is a code which will be given to perticular location and it will be unique so the datatype should object. So I have changed the datatype of Pincode column if I don’t change the datatype it will carry some wrong information and it may also affect my model accuracy.
 ![image](https://github.com/ShrutiMadhesia/Customer_retention_in_e-commerce/assets/90257735/be5c5dc9-65ab-4f54-aaa3-d02f4d8ab387)
 
+VISUALIZATION:
 ![image](https://github.com/ShrutiMadhesia/Customer_retention_in_e-commerce/assets/90257735/c3e3f4ab-a8fe-48c2-a773-b25414818fcc)
 ![image](https://github.com/ShrutiMadhesia/Customer_retention_in_e-commerce/assets/90257735/bd9ba935-3e8a-4e43-88af-9bfb4b035dee)
 ![image](https://github.com/ShrutiMadhesia/Customer_retention_in_e-commerce/assets/90257735/ebf19d15-44f3-4f1c-8c8d-2d1e02bc8e64)
 ![image](https://github.com/ShrutiMadhesia/Customer_retention_in_e-commerce/assets/90257735/a7191df0-5ad1-4b4f-a7be-8bb3529c1597)
+
+All the window users and max Android users uses Google Chrome as there browser and IOS/Mac users use Safari as there browser.
+Maximum customers uses Search Engine to visit the online store for first time and after first visit also again they login using search engines so search engines are the good mode to get hike in number of customers.
+Maximum customers uses the e-retail shop for more than 15 mins to make purchase decision and max customers uses credit/debit card as payment option.
+Maximum customers sometimes abandon and the maximum reason for abandons is to get better alternative offer.
+![image](https://github.com/ShrutiMadhesia/Customer_retention_in_e-commerce/assets/90257735/55379ef4-4de9-43a3-a2e2-d179d95d1f26)
+
+![image](https://github.com/ShrutiMadhesia/Customer_retention_in_e-commerce/assets/90257735/269b8f61-ae79-48e5-86ff-ad0ebf197909)
+
+![image](https://github.com/ShrutiMadhesia/Customer_retention_in_e-commerce/assets/90257735/81648305-ee93-4fba-9730-05bb41ffca45)
+
 
 
 
